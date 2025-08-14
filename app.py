@@ -29,7 +29,7 @@ with open("Model/model_sales.pkl", "rb") as f:
 
 #buat judul
 st.title("E-Commerce Sales Dashboard")
-st.markdown("**Analisis performa penjualan** untuk memantau tren, produk terlaris, dan prediksi penjualan.")
+st.markdown("**Analisis performa penjualan** untuk memantau tren, produk terlaris, dan Penjulan per negara")
 st.markdown("---")
 
 # Pilihan halaman
